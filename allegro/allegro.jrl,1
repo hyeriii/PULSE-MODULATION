@@ -1,0 +1,788 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jul 30 12:19:55 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=11004 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\Users\user\Desktop\ex\pulse modulation\allegro\PULSE MODULATION.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/AppData/Roaming/SPB_Data/pcbenv"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/EX/PULSE MODULATION/allegro/PULSE MODULATION.brd
+\i (00:00:03) trapsize 664
+\i (00:00:04) trapsize 679
+\i (00:00:04) trapsize 694
+\i (00:00:04) trapsize 678
+\i (00:00:04) generaledit 
+\i (00:00:06) roam start
+\i (00:00:06) roam x -16
+\i (00:00:06) roam y -80
+\i (00:00:07) roam y -48
+\i (00:00:07) roam end
+\i (00:00:10) done 
+\i (00:00:10) place manual 
+\i (00:00:10) FORM plc_manual placement_list 
+\i (00:00:10) FORM plc_manual categories Components by refdes 
+\i (00:00:10) trapsize 678
+\i (00:00:11) setwindow form.plc_manual
+\i (00:00:11) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\t (00:00:11) Placing U2 / LF356_2_DIP8_3_LF356 / DIP8_3 on Top.
+\i (00:00:11) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) pick grid 82.463 37.721
+\t (00:00:12) last pick:  81.280 38.100
+\i (00:00:14) setwindow form.plc_manual
+\i (00:00:14) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
+\t (00:00:14) Placing U4 / LF356_2_DIP8_3_LF356 / DIP8_3 on Top.
+\i (00:00:14) FORM plc_manual tree  U4 'Components by refdes' 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) pick grid 100.496 91.954
+\t (00:00:16) last pick:  101.600 91.440
+\i (00:00:17) setwindow form.plc_manual
+\i (00:00:17) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\t (00:00:17) Placing U5 / LF356_2_DIP8_3_LF356 / DIP8_3 on Top.
+\i (00:00:17) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) pick grid 71.481 82.735
+\t (00:00:18) last pick:  71.120 83.820
+\i (00:00:20) setwindow form.plc_manual
+\i (00:00:20) FORM plc_manual cancel  
+\i (00:00:20) setwindow pcb
+\i (00:00:20) generaledit 
+\i (00:02:07) pick grid 14.266 38.806
+\t (00:02:07) last pick:  15.240 38.100
+\i (00:02:09) pick grid -17.054 53.856
+\t (00:02:09) last pick:  -17.780 53.340
+\i (00:02:10) move 
+\t (00:02:10) Select element(s) to move.
+\i (00:02:11) pick grid 12.910 41.653
+\t (00:02:11) last pick:  12.700 40.640
+\t (00:02:11) last pick:  15.240 35.560
+\t (00:02:11) Moving J1 / CON4_JUMPER4_CON4 / JUMPER4.
+\t (00:02:11) Pick new location for the element(s).
+\i (00:02:12) pick grid 13.859 47.348
+\t (00:02:12) last pick:  12.700 48.260
+\i (00:02:12) pick grid 29.044 35.959
+\t (00:02:12) last pick:  27.940 35.560
+\t (00:02:12) last pick:  25.400 43.180
+\t (00:02:12) Moving U1 / NE555_1_DIP8_3_NE555 / DIP8_3.
+\t (00:02:12) Pick new location for the element(s).
+\i (00:02:20) pick grid 20.503 49.653
+\t (00:02:20) last pick:  20.320 50.800
+\i (00:02:22) pick grid 44.772 53.178
+\t (00:02:22) last pick:  45.720 53.340
+\t (00:02:22) last pick:  45.720 55.880
+\t (00:02:22) Moving VR1 / POT_RESADJ_5K / RESADJ.
+\t (00:02:22) Pick new location for the element(s).
+\i (00:02:22) pick grid 52.093 58.872
+\t (00:02:22) last pick:  53.340 58.420
+\i (00:02:23) pick grid 39.213 46.941
+\t (00:02:23) last pick:  38.100 45.720
+\t (00:02:23) last pick:  20.320 50.800
+\t (00:02:23) Moving U1 / NE555_1_DIP8_3_NE555 / DIP8_3.
+\t (00:02:23) Pick new location for the element(s).
+\i (00:02:25) pick grid 21.723 49.788
+\t (00:02:25) last pick:  22.860 50.800
+\i (00:02:25) pick grid 42.060 45.856
+\t (00:02:25) last pick:  43.180 45.720
+\t (00:02:25) last pick:  40.640 40.640
+\t (00:02:25) Moving R2 / R_RES400_39K / RES400.
+\t (00:02:25) Pick new location for the element(s).
+\i (00:02:30) pick grid 40.704 51.958
+\t (00:02:30) last pick:  40.640 50.800
+\i (00:02:32) pick grid 52.229 45.992
+\t (00:02:32) last pick:  53.340 45.720
+\t (00:02:32) last pick:  48.260 45.720
+\t (00:02:32) Moving Q1 / PNP BCE_TO92_PNP BCE / TO92.
+\t (00:02:32) Pick new location for the element(s).
+\i (00:02:33) pick grid 49.381 47.619
+\t (00:02:33) last pick:  48.260 48.260
+\i (00:02:36) pick grid 39.620 30.671
+\t (00:02:36) last pick:  40.640 30.480
+\t (00:02:36) last pick:  40.640 25.400
+\t (00:02:36) Moving R4 / R_RES400_100K / RES400.
+\t (00:02:36) Pick new location for the element(s).
+\i (00:02:38) pick grid 39.620 34.467
+\t (00:02:38) last pick:  40.640 35.560
+\i (00:04:55) pick grid 50.059 48.161
+\t (00:04:55) last pick:  50.800 48.260
+\t (00:04:55) last pick:  48.260 48.260
+\t (00:04:55) Moving Q1 / PNP BCE_TO92_PNP BCE / TO92.
+\t (00:04:55) Pick new location for the element(s).
+\i (00:04:57) pick grid 51.822 48.161
+\t (00:04:57) last pick:  50.800 48.260
+\i (00:04:58) pick grid 51.958 38.128
+\t (00:04:58) last pick:  50.800 38.100
+\t (00:04:58) last pick:  50.800 38.100
+\t (00:04:58) Moving C1 / CAP NP_CAP196_0.01UF / CAP196.
+\t (00:04:58) Pick new location for the element(s).
+\i (00:05:00) pick grid 51.822 37.721
+\t (00:05:00) last pick:  50.800 38.100
+\i (00:05:05) pick grid 39.348 81.514
+\t (00:05:05) last pick:  38.100 81.280
+\t (00:05:05) last pick:  36.957 81.198
+\t (00:05:05) Moving C2 / CAP NP_CAP196_0.01UF / CAP196.
+\t (00:05:05) Pick new location for the element(s).
+\i (00:05:06) pick grid 47.077 77.040
+\t (00:05:06) last pick:  48.260 76.200
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 52.093 36.637
+\i (00:05:11) trapsize 339
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 52.092 36.638
+\i (00:05:11) trapsize 169
+\i (00:05:13) pick grid 51.855 38.435
+\t (00:05:13) last pick:  50.800 38.100
+\t (00:05:13) last pick:  50.800 38.100
+\t (00:05:13) Moving C1 / CAP NP_CAP196_0.01UF / CAP196.
+\t (00:05:13) Pick new location for the element(s).
+\i (00:05:16) pick grid 52.058 37.520
+\t (00:05:16) last pick:  50.800 38.100
+\i (00:05:17) pick grid 57.549 33.927
+\t (00:05:17) last pick:  58.420 33.020
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out 57.549 33.927
+\i (00:05:17) trapsize 339
+\i (00:05:18) zoom out 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom out 56.804 34.604
+\i (00:05:18) trapsize 678
+\i (00:05:19) pick grid 48.533 75.416
+\t (00:05:19) last pick:  48.260 76.200
+\t (00:05:19) last pick:  48.260 76.200
+\t (00:05:19) Moving C2 / CAP NP_CAP196_0.01UF / CAP196.
+\t (00:05:19) Pick new location for the element(s).
+\i (00:05:21) pick grid 31.721 32.978
+\t (00:05:21) last pick:  30.480 33.020
+\i (00:05:22) pick grid 45.957 26.605
+\t (00:05:22) last pick:  45.720 25.400
+\i (00:05:23) roam start
+\i (00:05:23) roam x 48
+\i (00:05:23) roam y 16
+\i (00:05:23) roam x 64
+\i (00:05:23) roam x 16
+\i (00:05:23) roam x 32
+\i (00:05:24) roam y -16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam end
+\i (00:05:31) pick grid 84.772 35.555
+\t (00:05:31) last pick:  83.820 35.560
+\t (00:05:31) last pick:  81.280 38.100
+\t (00:05:31) Moving U2 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:05:31) Pick new location for the element(s).
+\i (00:05:34) pick grid 74.603 47.079
+\t (00:05:34) last pick:  73.660 48.260
+\i (00:05:37) pick grid 73.383 22.267
+\t (00:05:37) last pick:  73.660 22.860
+\i (00:05:38) zoom out 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 79.213 21.183
+\i (00:05:38) trapsize 1327
+\i (00:05:39) zoom in 1 
+\i (00:05:39) setwindow pcb
+\i (00:05:39) zoom in 124.690 -13.097
+\i (00:05:39) trapsize 664
+\i (00:05:40) zoom in 1 
+\i (00:05:40) setwindow pcb
+\i (00:05:40) zoom in 84.469 11.859
+\i (00:05:40) trapsize 332
+\i (00:05:41) roam start
+\i (00:05:41) roam x -64
+\i (00:05:41) roam x -48
+\i (00:05:41) roam x -16
+\i (00:05:41) roam y -32
+\i (00:05:41) roam x -32
+\i (00:05:41) roam y -32
+\i (00:05:41) roam x -32
+\i (00:05:41) roam y -96
+\i (00:05:41) roam y -64
+\i (00:05:41) roam y -48
+\i (00:05:41) roam y -48
+\i (00:05:41) roam y -80
+\i (00:05:41) roam y -112
+\i (00:05:41) roam x 16
+\i (00:05:41) roam y -96
+\i (00:05:41) roam y -80
+\i (00:05:41) roam x 16
+\i (00:05:41) roam y -32
+\i (00:05:42) roam x -32
+\i (00:05:42) roam y 48
+\i (00:05:42) roam x -80
+\i (00:05:42) roam y 48
+\i (00:05:42) roam x -64
+\i (00:05:42) roam y 48
+\i (00:05:42) roam x -32
+\i (00:05:42) roam y 16
+\i (00:05:42) roam x -16
+\i (00:05:42) roam y 16
+\i (00:05:42) roam x -16
+\i (00:05:42) roam y 16
+\i (00:05:42) roam y 16
+\i (00:05:42) roam y 32
+\i (00:05:42) roam x -16
+\i (00:05:42) roam y 64
+\i (00:05:42) roam y 48
+\i (00:05:42) roam y 32
+\i (00:05:42) roam end
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 61.040 31.837
+\i (00:05:48) trapsize 664
+\i (00:05:49) roam start
+\i (00:05:49) roam x -96
+\i (00:05:49) roam x -64
+\i (00:05:49) roam x -32
+\i (00:05:49) roam x -32
+\i (00:05:49) roam y 16
+\i (00:05:50) roam end
+\i (00:05:50) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 39.735 23.540
+\i (00:05:50) trapsize 1327
+\i (00:05:53) roam start
+\i (00:05:54) roam end
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 45.310 17.434
+\i (00:05:59) trapsize 664
+\i (00:06:00) roam start
+\i (00:06:00) roam x -48
+\i (00:06:00) roam y -16
+\i (00:06:00) roam x -32
+\i (00:06:00) roam y -16
+\i (00:06:01) roam end
+\i (00:07:00) roam start
+\i (00:07:00) roam y -32
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -32
+\i (00:07:00) roam y -32
+\i (00:07:01) roam end
+\i (00:07:03) pick grid 20.885 90.310
+\t (00:07:03) last pick:  20.320 91.440
+\t (00:07:03) last pick:  20.320 86.360
+\t (00:07:03) Moving D1 / D1S1588_DO41_D1S1588 / DO41.
+\t (00:07:03) Pick new location for the element(s).
+\i (00:07:05) pick grid 68.938 75.044
+\t (00:07:05) last pick:  68.580 76.200
+\i (00:07:06) pick grid 70.000 68.142
+\t (00:07:06) last pick:  71.120 68.580
+\t (00:07:06) last pick:  66.651 68.473
+\t (00:07:06) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:07:06) Pick new location for the element(s).
+\i (00:07:07) pick grid 75.442 80.089
+\t (00:07:07) last pick:  76.200 81.280
+\i (00:07:11) zoom in 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom in 36.548 76.239
+\i (00:07:11) trapsize 332
+\i (00:07:15) roam start
+\i (00:07:15) roam x -64
+\i (00:07:15) roam x -64
+\i (00:07:16) roam x -48
+\i (00:07:16) roam x -32
+\i (00:07:16) roam x -32
+\i (00:07:16) roam x -32
+\i (00:07:17) roam end
+\i (00:07:18) zoom out 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out 55.001 73.187
+\i (00:07:18) trapsize 664
+\i (00:07:25) done 
+\i (00:07:25) place manual 
+\i (00:07:25) FORM plc_manual placement_list 
+\i (00:07:25) FORM plc_manual categories Components by refdes 
+\i (00:07:25) trapsize 664
+\i (00:07:27) setwindow form.plc_manual
+\i (00:07:27) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\t (00:07:27) Placing U5 / LF356_2_DIP8_3_LF356 / DIP8_3 on Top.
+\i (00:07:27) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) pick grid -24.646 36.947
+\t (00:07:29) last pick:  -25.400 38.100
+\i (00:07:31) setwindow form.plc_manual
+\i (00:07:31) FORM plc_manual done  
+\i (00:07:31) setwindow pcb
+\i (00:07:31) generaledit 
+\i (00:07:45) pick grid 92.700 74.646
+\t (00:07:45) last pick:  91.440 73.660
+\i (00:07:46) pick grid 89.912 76.770
+\t (00:07:46) last pick:  88.900 76.200
+\i (00:07:47) move 
+\t (00:07:47) last pick:  91.359 68.384
+\t (00:07:47) Moving R5 / R_RES400_10K / RES400.
+\t (00:07:47) Pick new location for the element(s).
+\i (00:07:49) pick grid 88.452 74.912
+\t (00:07:49) last pick:  88.900 73.660
+\i (00:07:49) generaledit 
+\i (00:07:51) pick grid -4.336 75.310
+\t (00:07:51) last pick:  -5.080 76.200
+\i (00:07:52) move 
+\t (00:07:52) last pick:  -7.620 76.200
+\t (00:07:52) Moving U3 / LF398_1_DIP8_3_LF398 / DIP8_3.
+\t (00:07:52) Pick new location for the element(s).
+\i (00:07:53) pick grid -17.080 82.611
+\t (00:07:53) last pick:  -17.780 83.820
+\i (00:07:54) generaledit 
+\i (00:07:58) done 
+\i (00:07:58) place manual 
+\t (00:07:58) Selected item not valid for current operation, ignored: Text "U3"
+\t (00:07:58) No valid items selected for the current operation, exiting.
+\i (00:07:58) FORM plc_manual placement_list 
+\e (00:07:58) Form not found
+\i (00:07:58) FORM plc_manual categories Components by refdes 
+\e (00:07:58) Form not found
+\i (00:07:58) trapsize 664
+\i (00:07:58) generaledit 
+\i (00:08:00) done 
+\i (00:08:00) place manual 
+\t (00:08:00) Selected item not valid for current operation, ignored: Text "U3"
+\t (00:08:00) No valid items selected for the current operation, exiting.
+\i (00:08:00) FORM plc_manual placement_list 
+\e (00:08:00) Form not found
+\i (00:08:00) FORM plc_manual categories Components by refdes 
+\e (00:08:00) Form not found
+\i (00:08:00) trapsize 664
+\i (00:08:00) generaledit 
+\i (00:08:05) done 
+\i (00:08:05) place manual 
+\t (00:08:05) Selected item not valid for current operation, ignored: Text "U3"
+\t (00:08:05) No valid items selected for the current operation, exiting.
+\i (00:08:05) FORM plc_manual placement_list 
+\e (00:08:05) Form not found
+\i (00:08:05) FORM plc_manual categories Components by refdes 
+\e (00:08:05) Form not found
+\i (00:08:05) trapsize 664
+\i (00:08:05) generaledit 
+\i (00:08:06) pick grid 126.284 63.761
+\t (00:08:06) last pick:  127.000 63.500
+\i (00:08:06) prepopup 126.284 63.761
+\i (00:08:07) pick grid 120.310 71.062
+\t (00:08:07) last pick:  119.380 71.120
+\i (00:08:13) pick grid 118.983 32.168
+\t (00:08:13) last pick:  119.380 33.020
+\i (00:08:18) pick grid -12.433 78.894
+\t (00:08:18) last pick:  -12.700 78.740
+\i (00:08:20) pick grid -30.354 102.655
+\t (00:08:20) last pick:  -30.480 101.600
+\i (00:08:20) move 
+\t (00:08:20) Select element(s) to move.
+\i (00:08:21) pick grid -10.177 78.363
+\t (00:08:21) last pick:  -10.160 78.740
+\t (00:08:21) last pick:  -17.780 83.820
+\t (00:08:21) Moving U3 / LF398_1_DIP8_3_LF398 / DIP8_3.
+\t (00:08:21) Pick new location for the element(s).
+\i (00:08:23) pick grid 21.549 19.823
+\t (00:08:23) last pick:  20.320 20.320
+\i (00:08:25) roam start
+\i (00:08:25) roam y 48
+\i (00:08:25) roam y 32
+\i (00:08:25) roam y 32
+\i (00:08:25) roam end
+\i (00:08:28) pick grid 32.301 81.947
+\t (00:08:28) last pick:  33.020 81.280
+\t (00:08:28) last pick:  31.166 81.198
+\t (00:08:28) Moving C3 / CAP NP_CAP196_0.01UF / CAP196.
+\t (00:08:28) Pick new location for the element(s).
+\i (00:08:30) pick grid 36.682 7.080
+\t (00:08:30) last pick:  35.560 7.620
+\i (00:08:31) roam start
+\i (00:08:31) roam y -48
+\i (00:08:32) roam end
+\i (00:08:33) pick grid 61.505 91.505
+\t (00:08:33) last pick:  60.960 91.440
+\t (00:08:33) last pick:  60.960 88.900
+\t (00:08:33) Moving R7 / R_RES400_10K / RES400.
+\t (00:08:33) Pick new location for the element(s).
+\i (00:08:36) pick grid 39.868 14.115
+\t (00:08:36) last pick:  40.640 15.240
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 0.310 85.797
+\i (00:08:41) trapsize 332
+\i (00:08:43) zoom out 1 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom out 36.217 73.186
+\i (00:08:43) trapsize 664
+\i (00:08:45) pick grid 88.054 77.302
+\t (00:08:45) last pick:  88.900 76.200
+\t (00:08:45) last pick:  88.900 73.660
+\t (00:08:45) Moving R5 / R_RES400_10K / RES400.
+\t (00:08:45) Pick new location for the element(s).
+\i (00:08:46) pick grid 34.292 21.815
+\t (00:08:46) last pick:  35.560 22.860
+\i (00:08:48) roam start
+\i (00:08:48) roam y 16
+\i (00:08:48) roam x 32
+\i (00:08:48) roam y 16
+\i (00:08:48) roam y 16
+\i (00:08:48) roam x 32
+\i (00:08:49) roam x 48
+\i (00:08:49) roam y 16
+\i (00:08:49) roam x 32
+\i (00:08:49) roam x 48
+\i (00:08:49) roam y 16
+\i (00:08:49) roam x 32
+\i (00:08:49) roam x 16
+\i (00:08:49) roam x 16
+\i (00:08:49) roam x 16
+\i (00:08:49) roam x 16
+\i (00:08:50) roam x 16
+\i (00:08:50) roam x 16
+\i (00:08:50) roam y 16
+\i (00:08:50) roam x 16
+\i (00:08:50) roam x 16
+\i (00:08:50) roam x -32
+\i (00:08:50) roam x -48
+\i (00:08:50) roam x -16
+\i (00:08:50) roam y -16
+\i (00:08:51) roam x 16
+\i (00:08:51) roam x 16
+\i (00:08:51) roam x 16
+\i (00:08:51) roam end
+\i (00:08:58) pick grid 107.169 88.186
+\t (00:08:58) last pick:  106.680 88.900
+\t (00:08:58) last pick:  101.600 91.440
+\t (00:08:58) Moving U4 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:08:58) Pick new location for the element(s).
+\i (00:08:59) pick grid 49.558 19.425
+\t (00:08:59) last pick:  50.800 20.320
+\i (00:09:03) zoom in 1 
+\i (00:09:03) setwindow pcb
+\i (00:09:03) zoom in 2.832 87.523
+\i (00:09:03) trapsize 332
+\i (00:09:04) zoom out 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom out 23.341 86.594
+\i (00:09:04) trapsize 664
+\i (00:09:05) zoom in 1 
+\i (00:09:05) setwindow pcb
+\i (00:09:05) zoom in 39.668 94.559
+\i (00:09:05) trapsize 332
+\i (00:09:07) zoom out 1 
+\i (00:09:07) setwindow pcb
+\i (00:09:07) zoom out 40.598 92.502
+\i (00:09:07) trapsize 664
+\i (00:09:08) roam start
+\i (00:09:08) roam x -48
+\i (00:09:08) roam x -32
+\i (00:09:09) roam x -32
+\i (00:09:09) roam end
+\i (00:09:10) zoom in 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom in 3.894 86.130
+\i (00:09:10) trapsize 332
+\i (00:09:11) roam start
+\i (00:09:11) roam y -32
+\i (00:09:11) roam y -32
+\i (00:09:11) roam y -16
+\i (00:09:12) roam y -32
+\i (00:09:12) roam y -32
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -32
+\i (00:09:13) roam x 16
+\i (00:09:13) roam y 16
+\i (00:09:13) roam x 32
+\i (00:09:13) roam y 48
+\i (00:09:13) roam x 32
+\i (00:09:13) roam y 80
+\i (00:09:13) roam x 16
+\i (00:09:13) roam y 64
+\i (00:09:13) roam y 32
+\i (00:09:13) roam y 16
+\i (00:09:14) roam y 48
+\i (00:09:14) roam x 16
+\i (00:09:14) roam y 64
+\i (00:09:14) roam y 48
+\i (00:09:14) roam x 16
+\i (00:09:14) roam y 64
+\i (00:09:14) roam y 64
+\i (00:09:14) roam y 48
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 32
+\i (00:09:14) roam y 32
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam y 16
+\i (00:09:14) roam x 16
+\i (00:09:14) roam x 16
+\i (00:09:14) roam x 16
+\i (00:09:16) roam x 16
+\i (00:09:16) roam x 16
+\i (00:09:17) roam x 16
+\i (00:09:17) roam x 16
+\i (00:09:17) roam y -16
+\i (00:09:17) roam x 16
+\i (00:09:17) roam x 16
+\i (00:09:17) roam y -16
+\i (00:09:17) roam y -16
+\i (00:09:17) roam x 16
+\i (00:09:17) roam y -16
+\i (00:09:17) roam x 16
+\i (00:09:17) roam y -16
+\i (00:09:17) roam y -16
+\i (00:09:18) roam x 16
+\i (00:09:18) roam y -16
+\i (00:09:18) roam y -16
+\i (00:09:18) roam x 16
+\i (00:09:18) roam y -16
+\i (00:09:18) roam y -16
+\i (00:09:18) roam y -16
+\i (00:09:18) roam x 16
+\i (00:09:18) roam y -16
+\i (00:09:19) roam y -16
+\i (00:09:19) roam x 16
+\i (00:09:19) roam y -16
+\i (00:09:20) roam y -16
+\i (00:09:20) roam y -16
+\i (00:09:20) roam x 16
+\i (00:09:20) roam y -16
+\i (00:09:20) roam y -16
+\i (00:09:20) roam y -16
+\i (00:09:20) roam y -16
+\i (00:09:20) roam x -16
+\i (00:09:20) roam y -16
+\i (00:09:20) roam x -64
+\i (00:09:20) roam y -16
+\i (00:09:20) roam x -48
+\i (00:09:20) roam y -16
+\i (00:09:20) roam x -16
+\i (00:09:20) roam x -16
+\i (00:09:20) roam x -16
+\i (00:09:20) roam x -32
+\i (00:09:20) roam x -16
+\i (00:09:20) roam x -16
+\i (00:09:21) roam x -16
+\i (00:09:21) roam y 16
+\i (00:09:21) roam x -16
+\i (00:09:21) roam y 16
+\i (00:09:21) roam y 16
+\i (00:09:21) roam x -16
+\i (00:09:21) roam y 16
+\i (00:09:21) roam y 48
+\i (00:09:21) roam y 64
+\i (00:09:21) roam y 128
+\i (00:09:21) roam y 96
+\i (00:09:21) roam y 64
+\i (00:09:21) roam y 16
+\i (00:09:21) roam y 16
+\i (00:09:21) roam y 16
+\i (00:09:21) roam y 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam y -16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 32
+\i (00:09:22) roam x 32
+\i (00:09:22) roam x 16
+\i (00:09:22) roam x 16
+\i (00:09:23) roam x 16
+\i (00:09:23) roam x 16
+\i (00:09:23) roam x 16
+\i (00:09:23) roam x 16
+\i (00:09:23) roam x 16
+\i (00:09:23) roam end
+\i (00:09:29) roam start
+\i (00:09:29) roam x -32
+\i (00:09:29) roam y -80
+\i (00:09:29) roam x -64
+\i (00:09:29) roam y -96
+\i (00:09:29) roam x -112
+\i (00:09:29) roam y -112
+\i (00:09:29) roam x -96
+\i (00:09:29) roam y -112
+\i (00:09:29) roam x -80
+\i (00:09:29) roam y -112
+\i (00:09:29) roam x -64
+\i (00:09:29) roam y -64
+\i (00:09:29) roam x 48
+\i (00:09:29) roam y -64
+\i (00:09:29) roam x 32
+\i (00:09:29) roam y -48
+\i (00:09:29) roam x 32
+\i (00:09:29) roam y -32
+\i (00:09:30) roam x 32
+\i (00:09:30) roam y -16
+\i (00:09:30) roam x 32
+\i (00:09:30) roam y -16
+\i (00:09:30) roam x 80
+\i (00:09:30) roam y -32
+\i (00:09:30) roam x 48
+\i (00:09:30) roam y -16
+\i (00:09:30) roam x 16
+\i (00:09:30) roam y -32
+\i (00:09:30) roam y -32
+\i (00:09:30) roam y -64
+\i (00:09:30) roam y -64
+\i (00:09:30) roam y -16
+\i (00:09:30) roam y -16
+\i (00:09:30) roam x -32
+\i (00:09:30) roam end
+\i (00:09:31) pick grid 40.531 95.620
+\t (00:09:31) last pick:  40.640 96.520
+\t (00:09:31) last pick:  40.640 91.440
+\t (00:09:31) Moving R8 / R_RES400_10K / RES400.
+\t (00:09:31) Pick new location for the element(s).
+\i (00:09:32) zoom out 1 
+\i (00:09:32) setwindow pcb
+\i (00:09:32) zoom out 46.903 70.797
+\i (00:09:32) trapsize 664
+\i (00:09:33) roam start
+\i (00:09:33) roam y -32
+\i (00:09:33) roam y 16
+\i (00:09:33) roam y 128
+\i (00:09:33) roam x 32
+\i (00:09:33) roam y 416
+\i (00:09:34) roam y 64
+\i (00:09:34) roam x 16
+\i (00:09:34) roam y -32
+\i (00:09:34) roam y -48
+\i (00:09:34) roam y -96
+\i (00:09:34) roam y -96
+\i (00:09:34) roam x -48
+\i (00:09:34) roam y -96
+\i (00:09:34) roam y -48
+\i (00:09:34) roam y -16
+\i (00:09:34) roam y 48
+\i (00:09:34) roam y 96
+\i (00:09:34) roam y 128
+\i (00:09:34) roam y 64
+\i (00:09:34) roam y 48
+\i (00:09:35) roam y 16
+\i (00:09:35) roam end
+\i (00:09:39) pick grid 45.576 6.549
+\t (00:09:39) last pick:  45.720 7.620
+\i (00:09:43) pick grid -23.451 33.496
+\t (00:09:43) last pick:  -22.860 33.020
+\t (00:09:43) last pick:  -25.400 38.100
+\t (00:09:43) Moving U5 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:09:43) Pick new location for the element(s).
+\i (00:09:44) pick grid 65.753 19.160
+\t (00:09:44) last pick:  66.040 20.320
+\i (00:09:45) pick grid 84.735 8.938
+\t (00:09:45) last pick:  83.820 10.160
+\i (00:09:47) roam start
+\i (00:09:47) roam y 48
+\i (00:09:48) roam x 96
+\i (00:09:48) roam y 16
+\i (00:09:48) roam x 16
+\i (00:09:48) roam x 16
+\i (00:09:48) roam y -32
+\i (00:09:48) roam y -32
+\i (00:09:48) roam y -32
+\i (00:09:48) roam y -16
+\i (00:09:48) roam x -48
+\i (00:09:48) roam y -48
+\i (00:09:48) roam x -16
+\i (00:09:48) roam y -16
+\i (00:09:48) roam end
+\i (00:09:51) pick grid 68.275 80.354
+\t (00:09:51) last pick:  68.580 81.280
+\t (00:09:51) last pick:  68.580 76.200
+\t (00:09:51) Moving D1 / D1S1588_DO41_D1S1588 / DO41.
+\t (00:09:51) Pick new location for the element(s).
+\i (00:09:53) pick grid 79.426 11.328
+\t (00:09:53) last pick:  78.740 10.160
+\i (00:09:56) pick grid 6.948 89.779
+\t (00:09:56) last pick:  7.620 88.900
+\t (00:09:56) last pick:  5.080 86.360
+\t (00:09:56) Moving R9 / R_RES400_10K / RES400.
+\t (00:09:56) Pick new location for the element(s).
+\i (00:09:58) pick grid 83.673 4.027
+\t (00:09:58) last pick:  83.820 5.080
+\i (00:09:59) roam start
+\i (00:09:59) roam x -48
+\i (00:09:59) roam y 16
+\i (00:09:59) roam x 16
+\i (00:09:59) roam x 32
+\i (00:09:59) roam x 16
+\i (00:09:59) roam x 48
+\i (00:09:59) roam end
+\i (00:10:35) pick grid 81.151 80.752
+\t (00:10:35) last pick:  81.280 81.280
+\t (00:10:35) last pick:  76.200 81.280
+\t (00:10:35) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:10:35) Pick new location for the element(s).
+\i (00:10:40) pick grid 8.673 19.159
+\t (00:10:40) last pick:  7.620 20.320
+\i (00:10:41) pick grid 33.628 74.514
+\t (00:10:41) last pick:  33.020 73.660
+\t (00:10:41) last pick:  30.480 73.660
+\t (00:10:41) Moving J3 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:10:41) Pick new location for the element(s).
+\i (00:10:44) pick grid 90.177 15.973
+\t (00:10:44) last pick:  91.440 15.240
+\i (00:10:49) pick grid 1.239 88.186
+\t (00:10:49) last pick:  0.000 88.900
+\t (00:10:49) last pick:  0.000 83.820
+\t (00:10:49) Moving R18 / R_RES400_10K / RES400.
+\t (00:10:49) Pick new location for the element(s).
+\i (00:10:51) pick grid -4.867 41.859
+\t (00:10:51) last pick:  -5.080 40.640
+\i (00:11:02) zoom in 1 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) zoom in 41.460 4.425
+\i (00:11:02) trapsize 332
+\i (00:11:08) roam start
+\i (00:11:08) roam x -80
+\i (00:11:08) roam y -48
+\i (00:11:08) roam x -80
+\i (00:11:08) roam y -48
+\i (00:11:08) roam x -160
+\i (00:11:08) roam y -48
+\i (00:11:08) roam x -112
+\i (00:11:08) roam x -48
+\i (00:11:08) roam x -64
+\i (00:11:08) roam y 32
+\i (00:11:08) roam x -48
+\i (00:11:08) roam y 32
+\i (00:11:08) roam end
+\i (00:11:09) pick grid -5.597 45.642
+\t (00:11:09) last pick:  -5.080 45.720
+\t (00:11:09) last pick:  -5.080 40.640
+\t (00:11:09) Moving R18 / R_RES400_10K / RES400.
+\t (00:11:09) Pick new location for the element(s).
+\i (00:11:11) pick grid 62.169 25.532
+\t (00:11:11) last pick:  60.960 25.400
+\i (00:11:12) roam start
+\i (00:11:12) roam x -16
+\i (00:11:12) roam y 32
+\i (00:11:12) roam y 48
+\i (00:11:12) roam y 64
+\i (00:11:12) roam y 48
+\i (00:11:12) roam x 32
+\i (00:11:12) roam x 16
+\i (00:11:12) roam y -16
+\i (00:11:12) roam x 16
+\i (00:11:12) roam x 16
+\i (00:11:12) roam y -32
+\i (00:11:12) roam x 16
+\i (00:11:12) roam y -32
+\i (00:11:12) roam x 16
+\i (00:11:12) roam y -32
+\i (00:11:12) roam y -16
+\i (00:11:13) roam x 32
+\i (00:11:13) roam x 48
+\i (00:11:13) roam x 64
+\i (00:11:13) roam x 16
+\i (00:11:13) roam end
+\i (00:11:14) pick grid 65.819 7.213
+\t (00:11:14) last pick:  66.040 7.620
+\i (00:11:15) save 
+\i (00:11:16) fillin yes 
+\i (00:11:17) generaledit 
+\i (00:12:08) exit 
+\t (00:12:11)     Journal end - Tue Jul 30 12:32:05 2019
